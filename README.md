@@ -64,7 +64,8 @@ I enjoy turning ideas into working software 🚀
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ASHWANIKUMARGUPTA14830&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ASHWANIKUMARGUPTA14830&theme=darkhub&no-frame=true&row=1&column=6)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
