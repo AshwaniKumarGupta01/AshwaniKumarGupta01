@@ -1,4 +1,4 @@
-💫 Hi 👋, I’m Ashwani Gupta
+ 💫 Hi 👋, I’m Ashwani Gupta
 
 Final-Year Computer Science Student | Java & DSA | Android Developer (Kotlin) | AI/ML Enthusiast | India
 
@@ -30,22 +30,6 @@ Android architecture & best practices
 
 Machine Learning fundamentals
 
-👯 Looking to Collaborate On
-
-Android apps
-
-Java-based projects
-
-AI/ML or problem-solving projects
-
-💬 Ask Me About
-
-Java & DSA
-
-Android Development
-
-Project collaboration
-
 📫 How to Reach Me
 
 Email: ashwanikumargupta0112w@gmail.com
@@ -67,6 +51,8 @@ I enjoy turning ideas into working software 🚀
 ![](https://nirzak-streak-stats.vercel.app/?user=ASHWANIKUMARGUPTA14830&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWANIKUMARGUPTA14830&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!-- Snake Game Repo View -->
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -83,4 +69,4 @@ I enjoy turning ideas into working software 🚀
 ---
 [![](https://visitcount.itsvg.in/api?id=ASHWANIKUMARGUPTA14830&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
