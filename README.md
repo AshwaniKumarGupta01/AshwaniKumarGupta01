@@ -1,46 +1,86 @@
-<h1 align="center"> Nǐ hǎo , it's CRAXY </h1>
-<h3 align="center">A person passionate about Cyber Security</h3>
+💫 Hi 👋, I’m Ashwani Gupta
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikumargupta14830&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikumargupta14830" /> </p>
+Final-Year Computer Science Student | Java & DSA | Android Developer (Kotlin) | AI/ML Enthusiast | India
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwanikumargupta14830" alt="ashwanikumargupta14830" /></a> </p>
+📧 Email: ashwanikumargupta0112w@gmail.com
 
-<p align="left"> <a href="https://twitter.com/swarajr31733509" target="blank"><img src="https://img.shields.io/twitter/follow/swarajr31733509?logo=twitter&style=for-the-badge" alt="swarajr31733509" /></a> </p>
+🚀 About Me
 
-- 🔭 I’m currently working on [E-Book Shop](https://github.com/ASHWANIKUMARGUPTA14830/html-project)
+🎓 B.Tech CSE student at Lovely Professional University (Graduating 2026)
 
-- 🌱 I’m currently learning **C++, PHP , Solidity**
+💻 Strong in Java, Data Structures & Algorithms, and OOP
 
-- 👨‍💻 All of my projects are available at [https://github.com/ASHWANIKUMARGUPTA14830?tab=repositories](https://github.com/ASHWANIKUMARGUPTA14830?tab=repositories)
+📱 Building Android applications using Kotlin & XML
 
-- 💬 Ask me about **Python, Java , c++**
+🤖 Exploring AI/ML through real-world projects
 
-- 📫 How to reach me **swaraj10112002@gmail.com**
+🧠 Passionate about solving problems and writing clean, scalable code
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFUKesDZuM/0hVYrhPcKRc8H686hHppHA/edit?utm_content=DAFUKesDZuM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFUKesDZuM/0hVYrhPcKRc8H686hHppHA/edit?utm_content=DAFUKesDZuM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+🔭 Currently Working On
 
-- No matter how smart you think you are, you're not as smart as the hacker in the room, and they're not the type to let you forget that. They know you need them, and they know you'll just have to stand there and take a few insults, because what are you going to do? Find a better hacker? Good luck with that.**
+Android & AI-based projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@devashwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@devashwani" height="30" width="40" /></a>
-<a href="https://twitter.com/swarajr31733509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swarajr31733509" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashwani-gupta-818436246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashwani-gupta-818436246/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20711450/ashwani-kumar-gupta?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20711450/ashwani-kumar-gupta?tab=profile" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100087519581905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100087519581905" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@fameofgodofficial07/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@fameofgodofficial07/featured" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/swaraj10112002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/swaraj10112002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/swaraj10112002?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/swaraj10112002?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@swaraj10112002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@swaraj10112002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ashwanikumargupta6666666666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ashwanikumargupta6666666666" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/zkUkYRc7Yr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/zkUkYRc7Yr" height="30" width="40" /></a>
-</p>
+DSA problem-solving and system fundamentals
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+🌱 Currently Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanikumargupta14830&show_icons=true&locale=en&layout=compact" alt="ashwanikumargupta14830" /></p>
+Advanced Java & DSA
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwanikumargupta14830&show_icons=true&locale=en" alt="ashwanikumargupta14830" /></p>
+Android architecture & best practices
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanikumargupta14830&" alt="ashwanikumargupta14830" /></p>
+Machine Learning fundamentals
+
+👯 Looking to Collaborate On
+
+Android apps
+
+Java-based projects
+
+AI/ML or problem-solving projects
+
+💬 Ask Me About
+
+Java & DSA
+
+Android Development
+
+Project collaboration
+
+📫 How to Reach Me
+
+Email: ashwanikumargupta0112w@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/eng-ashwani-gupta/
+
+⚡ Fun Fact
+
+I enjoy turning ideas into working software 🚀
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BnnxVQrv5/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iam__swaraj__?igsh=MXQ3NHR3ajQzYW1lMQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eng-ashwani-gupta/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/gupta_kuma99187) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@FAMEOFGODOfficial07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwanikumargupta0112w@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ASHWANIKUMARGUPTA14830&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ASHWANIKUMARGUPTA14830&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWANIKUMARGUPTA14830&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ASHWANIKUMARGUPTA14830&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ASHWANIKUMARGUPTA14830&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ASHWANIKUMARGUPTA14830&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
