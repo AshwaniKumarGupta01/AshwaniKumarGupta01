@@ -22,20 +22,6 @@ Android & AI-based projects
 
 DSA problem-solving and system fundamentals
 
-🌱 Currently Learning
-
-Advanced Java & DSA
-
-Android architecture & best practices
-
-Machine Learning fundamentals
-
-📫 How to Reach Me
-
-Email: ashwanikumargupta0112w@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/eng-ashwani-gupta/
-
 ⚡ Fun Fact
 
 I enjoy turning ideas into working software 🚀
